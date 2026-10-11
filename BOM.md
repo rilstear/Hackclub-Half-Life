@@ -19,7 +19,7 @@
 | [10k ohm resistors](https://www.amazon.co.uk/gp/product/B07Y8NPNQM?smid=A256U60QP5AZHW&psc=1) | resistor... for the starbie | 25 | $0.25 | $6.25 | [‎E-Projects (amazon)](https://www.amazon.co.uk/gp/product/B07Y8NPNQM?smid=A256U60QP5AZHW&psc=1) |
 | [Starbie PCB](https://jlcpcb.com/) | its the circuit board for the starbie | 5 | $0.80 | $4.00 | [JLCPCB](https://jlcpcb.com/) |
 | **Parts subtotal** | — | — | — | **$38.56** | — |
-| **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$38.56** | — |
+| **Tax & shipping** | — | — | — | **$4.32** | — |
+| **Total** | — | — | — | **$42.88** | — |
 
-**$8.56 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
+**$12.88 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
